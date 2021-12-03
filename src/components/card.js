@@ -1,6 +1,6 @@
 import axios from 'axios';
 const Card = (article) => {
-console.log(article)
+
  
     const cardWrapper = document.createElement('div');
     const headline = document.createElement('div');

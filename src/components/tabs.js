@@ -1,7 +1,7 @@
 import axios from 'axios';
 const Tabs = (topics) => {
 
-// console.log(topics)
+
   const topicWrapper = document.createElement('div');
   topics.forEach(element => {
    const newTab = document.createElement('div');

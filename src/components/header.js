@@ -37,7 +37,7 @@ divWrapper.appendChild(headTemp);
 
 
 const headerAppender = (selector) => {
-  console.log(selector)
+  
     document.querySelector(selector).appendChild(Header('Bloom Tech Times', 'December 2, 2021', '26' ));
   // TASK 2
   // ---------------------
