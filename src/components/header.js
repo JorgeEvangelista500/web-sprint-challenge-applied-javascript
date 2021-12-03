@@ -38,7 +38,7 @@ divWrapper.appendChild(headTemp);
 
 const headerAppender = (selector) => {
   console.log(selector)
-    document.querySelector(selector).appendChild(Header('Lambda Times', 'January 6, 2021', '26' ));
+    document.querySelector(selector).appendChild(Header('Bloom Tech Times', 'December 2, 2021', '26' ));
   // TASK 2
   // ---------------------
   // Implement this function taking a css selector as its only argument.
